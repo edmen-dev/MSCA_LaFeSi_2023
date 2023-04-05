@@ -1,11 +1,19 @@
 Licensing described in LICENSE files:
-  - Python code found in folder `hdf5_and_metadata_class`: **MIT license**
+  - Python code for metadata creation found in folder `hdf5_and_metadata_class`: **MIT license**
   - Datasets in folder `calculation`: **Creative Commons Attribution 4.0 International**
 
-Authorship and publication:
-  - **Main author:** Eduardo Mendive Tapia
-  - **email:** e.mendive.tapia@ub.edu
+Authorship of publication and DOI:
   - Work published in https://arxiv.org/abs/2302.06484
+  - **author:** Eduardo Mendive Tapia
+    - **email:** e.mendive.tapia@ub.edu
+  - **author:** Christopher E. Patrick
+    - **email:** christopher.patrick@materials.ox.ac.uk
+  - **author:** Tilmann Hickel
+    - **email:** hickel@mpie.de
+  - **author:** Jörg Neugebauer
+    - **email:** neugebauer@mpie.de
+  - **author:** Julie B. Staunton
+    - **email:** j.b.staunton@warwick.ac.uk
 
 ---
 
