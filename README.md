@@ -1,24 +1,17 @@
-# marmot_files_hdf5
-This repository contains the basic structure to save inputs and outputs of marmot code in hdf5 files, including also the creation of metadata.
+Licensing described in LICENSE files:
+  - Python code found in folder `hdf5_and_metadata_class`: **MIT license**
+  - Data in folder `calculation`: **Creative Commons Attribution 4.0 International**
 
-# check with EV
-- Can we put experimental data available as default? When?
-- Zenodo vs internal cluster
-- Is Zenodo free or you should work on section 3?
-- Think how GITHUB could play a nice role on the DMP.
-- Learn about how Zenodo secures your data.
-- sharePoint - base de dades amb atributs - 
-- WE WILL PUT IT IN SHAREPOINT
+Authorship and publication:
+  - **Main author:** Eduardo Mendive Tapia
+  - **email:** e.mendive.tapia@ub.edu
+  - Work published in https://arxiv.org/abs/2302.06484
 
-# To do
-- Am I fitting well the metadata for Zenodo? (https://zenodo.org/schemas/deposits/records/legacyrecord.json)
-- Accepted in json file: strings, true, false, integer, float, null
-    - use strings, true/false for safety
-- Add a CIF of your crystal structure?
-- How should I handle the final output of marmot?
-    - Add a script that manages all the output data?
-    - Add final pdf figures?
-- More useful links:
-    - B2SHARE (eudat.eu) b2share.eudat.eu
-    - https://developers.zenodo.org/#quickstart-upload
-    - Standards (rd-alliance.github.io) (CIF)
+---
+
+This notebook shows how to access and manipulate the most important data stored in this repository:
+ 1. `Weiss field` and `density of states` data are stored in marmot.hdf5
+ 2. The folder `calculation` contains all inputs and outputs, produced by `marmot code` (https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/marmot/) 3. Metadata is described in `marmot.json` file.
+ 4. The folder `hdf5_and_metadata_class` contains a python class called by `set_hdf5.ipynb` used to create:
+    - `marmot.hdf5`
+    - `marmot.json`
