@@ -1,0 +1,2585 @@
+targetelec =  214.48
+Initial guess of Ef =  0.6391829
+Setting up lattice
+Lattice data written to lattice.dat
+Energy grid data written to energygrid.dat
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si13.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si20.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si15.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si5.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si8.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si12.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si17.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si11.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si7.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si9.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si4.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si6.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si10.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si1.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe51.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si3.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe49.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe45.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La1.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe47.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si2.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe37.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe41.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe43.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe31.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe39.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe35.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe19.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe29.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La2.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe17.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe21.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe7.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe27.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe11.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe23.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe13.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe15.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe1.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe3.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe9.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si16.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si24.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe33.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si18.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si21.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si14.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si23.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe5.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si19.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si22.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe25.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+Reading data from lattice.dat
+Reading data from energygrid.dat
+Setting up lattice
+Lattice data written to lattice.dat
+Energy grid data written to energygrid.dat
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si14.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si15.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si18.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si8.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si11.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si9.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si17.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si7.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si10.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si6.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si2.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si1.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si12.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La2.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe51.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si5.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe47.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si3.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La1.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si4.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe33.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe41.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe49.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe37.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe45.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe35.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe39.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe31.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe29.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe43.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe25.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe19.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe27.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe21.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe17.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe23.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe15.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe13.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe1.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe3.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe11.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe9.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe7.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe5.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si20.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si22.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si19.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si21.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si16.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si23.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si13.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si24.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+Reading data from lattice.dat
+Reading data from energygrid.dat
+Setting up lattice
+Lattice data written to lattice.dat
+Energy grid data written to energygrid.dat
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si14.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si13.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si18.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si10.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si5.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si8.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si4.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si9.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si20.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si12.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si11.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si6.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si7.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si3.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si2.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si1.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe49.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe43.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe45.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La2.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe39.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La1.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe47.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe33.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe41.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe37.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe35.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe31.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe51.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe27.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe23.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe29.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe21.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe25.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe15.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe19.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe17.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe13.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe9.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe11.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe7.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe5.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe3.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si17.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si21.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe1.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si16.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si24.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si15.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si22.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si19.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si23.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+Reading data from lattice.dat
+Reading data from energygrid.dat
+Setting up lattice
+Lattice data written to lattice.dat
+Energy grid data written to energygrid.dat
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si15.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si12.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si9.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si14.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si18.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si16.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si8.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si11.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si6.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si4.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si5.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si2.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si7.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si3.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La1.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La2.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si1.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe51.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si10.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe45.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe47.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe41.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe49.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe39.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe35.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe43.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe37.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe25.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe27.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe31.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe33.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe23.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe19.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe15.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe21.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe7.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe17.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe11.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe29.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe13.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe1.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe9.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe5.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe3.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si13.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si22.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si20.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si21.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si19.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si24.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si17.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si23.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+Reading data from lattice.dat
+Reading data from energygrid.dat
+Setting up lattice
+Lattice data written to lattice.dat
+Energy grid data written to energygrid.dat
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si14.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si11.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si13.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si12.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si16.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si9.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si18.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si7.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si10.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si6.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si4.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si2.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si5.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si8.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si3.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe47.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe49.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe51.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe45.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe43.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La2.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe41.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe37.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe29.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La1.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe31.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe35.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe39.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe23.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe25.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe27.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe5.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe33.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe21.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe13.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si1.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe17.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe19.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe11.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe3.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe9.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe1.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe15.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe7.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si20.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si21.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si17.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si23.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si19.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si22.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si15.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si24.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+Reading data from lattice.dat
+Reading data from energygrid.dat
+Setting up lattice
+Lattice data written to lattice.dat
+Energy grid data written to energygrid.dat
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si18.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si4.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si12.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si10.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si8.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si13.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si14.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si9.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si11.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si3.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si1.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe51.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si5.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si7.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La2.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si15.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe49.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si2.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La1.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si6.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe47.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe43.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe45.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe41.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe33.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe35.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe39.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe37.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe31.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe27.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe25.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe19.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe17.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe21.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe23.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe29.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe15.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe13.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe9.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe11.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe7.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe1.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe5.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe3.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si17.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si22.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si19.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si21.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si16.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si24.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si20.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si23.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+Reading data from lattice.dat
+Reading data from energygrid.dat
+Setting up lattice
+Lattice data written to lattice.dat
+Energy grid data written to energygrid.dat
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si17.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si20.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si9.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si14.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si11.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si8.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si13.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si12.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si7.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si10.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si6.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si3.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si1.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si4.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si5.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si2.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe51.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe47.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La2.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/La1.pot"
+Atomic number 57.0
+Potential is of ASA type
+Wigner-Seitz radius is 3.381092168 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe43.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe35.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe41.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe33.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe49.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.607140726 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe31.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe37.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe29.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe45.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe39.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe27.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe23.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe19.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe17.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe21.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe13.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe15.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe11.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe25.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe9.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe5.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe7.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe3.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Fe1.pot"
+Atomic number 26.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si18.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si21.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si16.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si24.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si15.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si23.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si19.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590757 bohr
+==================================
+
+==================================
+Potential read from file "/rwthfs/rz/cluster/work/za317506/pymarmot/LaFeSi/Si0_12/experim/DLM/apos2/samp9/../hutsepot/Si22.pot"
+Atomic number 14.0
+Potential is of ASA type
+Wigner-Seitz radius is 2.814590751 bohr
+==================================
+
+Reading data from lattice.dat
+Reading data from energygrid.dat

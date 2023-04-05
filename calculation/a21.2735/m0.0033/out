@@ -1,0 +1,476 @@
+ # Execution on          48 processors
+ #          343 evaluations performed
+ # estimated relative error =  4.698494353621940E-011
+ #          343 evaluations performed
+ # estimated relative error =  7.151216881909129E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.131797951043807E-007
+ #          343 evaluations performed
+ # estimated relative error =  5.607883418146533E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.560704491266198E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.244227418562406E-007
+ #          343 evaluations performed
+ # estimated relative error =  7.753551081532920E-009
+ #          343 evaluations performed
+ # estimated relative error =  1.261942358011935E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.064934778772739E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.230740496388844E-007
+ #          343 evaluations performed
+ # estimated relative error =  2.084288671090159E-010
+ #          343 evaluations performed
+ # estimated relative error =  1.267038286913534E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.264170757439767E-007
+ #          343 evaluations performed
+ # estimated relative error =  4.862380540400773E-010
+ #          343 evaluations performed
+ # estimated relative error =  9.734867565574044E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.061079573657681E-009
+ #          343 evaluations performed
+ # estimated relative error =  1.258424837007338E-007
+ #          343 evaluations performed
+ # estimated relative error =  5.759865220590185E-011
+ #          343 evaluations performed
+ # estimated relative error =  1.252892884328206E-007
+ #          343 evaluations performed
+ # estimated relative error =  4.066399940520480E-008
+ #          343 evaluations performed
+ # estimated relative error =  4.118261970745090E-011
+ #          343 evaluations performed
+ # estimated relative error =  1.209968283518718E-007
+ #          343 evaluations performed
+ # estimated relative error =  8.557806796226795E-008
+ #          343 evaluations performed
+ # estimated relative error =  3.103682423854923E-009
+ #          343 evaluations performed
+ # estimated relative error =  1.265582410059260E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.178468026741611E-007
+ #          343 evaluations performed
+ # estimated relative error =  2.677094364165672E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.266474987052755E-007
+ #          343 evaluations performed
+ # estimated relative error =  6.418323980668518E-011
+ #          343 evaluations performed
+ # estimated relative error =  9.512515813484810E-011
+ #          343 evaluations performed
+ # estimated relative error =  1.031414193123621E-009
+ #          343 evaluations performed
+ # estimated relative error =  2.381978072231533E-010
+ #          343 evaluations performed
+ # estimated relative error =  7.881453203118242E-007
+ #          343 evaluations performed
+ # estimated relative error =  4.976812305137258E-009
+ #          343 evaluations performed
+ # estimated relative error =  8.995759220885522E-008
+ #          343 evaluations performed
+ # estimated relative error =  2.661120058931874E-008
+ #          343 evaluations performed
+ # estimated relative error =  6.569356469988801E-009
+ #          343 evaluations performed
+ # estimated relative error =  2.525049634488441E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.306560186656566E-008
+ #          343 evaluations performed
+ # estimated relative error =  4.871255268186236E-007
+ #          357 evaluations performed
+ # estimated relative error =  1.304887445731051E-006
+ #          431 evaluations performed
+ # estimated relative error =  1.939844705497459E-006
+ #          509 evaluations performed
+ # estimated relative error =  2.648636641016920E-006
+ #          615 evaluations performed
+ # estimated relative error =  2.567540317402188E-006
+ #          343 evaluations performed
+ # estimated relative error =  1.559369757804913E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.266294446068497E-007
+ #          343 evaluations performed
+ # estimated relative error =  4.698438876287433E-011
+ #          343 evaluations performed
+ # estimated relative error =  1.271436555353865E-007
+ #          343 evaluations performed
+ # estimated relative error =  7.743569624841326E-009
+ #          343 evaluations performed
+ # estimated relative error =  1.234816164032644E-007
+ #          343 evaluations performed
+ # estimated relative error =  7.160434195010729E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.135067590439844E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.248421224757315E-007
+ #          343 evaluations performed
+ # estimated relative error =  2.083270792860570E-010
+ #          343 evaluations performed
+ # estimated relative error =  1.067718014672766E-007
+ #          343 evaluations performed
+ # estimated relative error =  5.758933443252540E-011
+ #          343 evaluations performed
+ # estimated relative error =  1.268543013717830E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.262745223426593E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.213865929666306E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.182104725178978E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.269967459389790E-007
+ #          343 evaluations performed
+ # estimated relative error =  4.857821415609339E-010
+ #          343 evaluations performed
+ # estimated relative error =  2.676180362990936E-008
+ #          343 evaluations performed
+ # estimated relative error =  3.098962914193749E-009
+ #          343 evaluations performed
+ # estimated relative error =  1.059592470450953E-009
+ #          343 evaluations performed
+ # estimated relative error =  4.117770642302727E-011
+ #          343 evaluations performed
+ # estimated relative error =  5.612063597098660E-008
+ #          343 evaluations performed
+ # estimated relative error =  4.067202680641130E-008
+ #          343 evaluations performed
+ # estimated relative error =  9.756767193164610E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.257163681004852E-007
+ #          343 evaluations performed
+ # estimated relative error =  8.573218851637357E-008
+ #          343 evaluations performed
+ # estimated relative error =  6.419140045926397E-011
+ #          343 evaluations performed
+ # estimated relative error =  1.270868135134861E-007
+ #          343 evaluations performed
+ # estimated relative error =  9.515419100781969E-011
+ #          343 evaluations performed
+ # estimated relative error =  2.382593899949633E-010
+ #          343 evaluations performed
+ # estimated relative error =  1.031763336490473E-009
+ #          911 evaluations performed
+ # estimated relative error =  1.677413166775269E-006
+ #          909 evaluations performed
+ # estimated relative error =  1.812480726365707E-006
+ #          343 evaluations performed
+ # estimated relative error =  4.978741897739721E-009
+ #          343 evaluations performed
+ # estimated relative error =  2.669763396319206E-008
+ #          343 evaluations performed
+ # estimated relative error =  8.187259621426037E-007
+ #          919 evaluations performed
+ # estimated relative error =  1.940100088335561E-006
+ #          917 evaluations performed
+ # estimated relative error =  2.014740781725374E-006
+ #          343 evaluations performed
+ # estimated relative error =  2.554723554153882E-007
+ #          343 evaluations performed
+ # estimated relative error =  6.572594678965104E-009
+ #          343 evaluations performed
+ # estimated relative error =  1.308036503528879E-008
+ #          343 evaluations performed
+ # estimated relative error =  9.054756322571738E-008
+ #          343 evaluations performed
+ # estimated relative error =  4.977311191833389E-007
+ #          357 evaluations performed
+ # estimated relative error =  1.382592082059478E-006
+ #          501 evaluations performed
+ # estimated relative error =  1.985053304134702E-006
+ #          343 evaluations performed
+ # estimated relative error =  1.266307864631061E-007
+ #          343 evaluations performed
+ # estimated relative error =  5.758932898478154E-011
+ #          343 evaluations performed
+ # estimated relative error =  1.559364423301066E-008
+ #          343 evaluations performed
+ # estimated relative error =  7.743555908935152E-009
+ #          343 evaluations performed
+ # estimated relative error =  1.271450205999876E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.262758483298442E-007
+ #          343 evaluations performed
+ # estimated relative error =  4.698438455337941E-011
+ #          343 evaluations performed
+ # estimated relative error =  1.182114664210908E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.234828211805816E-007
+ #          343 evaluations performed
+ # estimated relative error =  7.160429263820563E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.213877111901445E-007
+ #          343 evaluations performed
+ # estimated relative error =  2.083271061514375E-010
+ #          343 evaluations performed
+ # estimated relative error =  1.135075835167837E-007
+ #          343 evaluations performed
+ # estimated relative error =  2.676168975602803E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.067724121027870E-007
+ #          343 evaluations performed
+ # estimated relative error =  3.098962183652432E-009
+ #          343 evaluations performed
+ # estimated relative error =  1.248433854517043E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.269981043561339E-007
+ #          343 evaluations performed
+ # estimated relative error =  1.268556533594205E-007
+ #          343 evaluations performed
+ # estimated relative error =  4.117771340769786E-011
+ #          343 evaluations performed
+ # estimated relative error =  4.857822924132254E-010
+ #          343 evaluations performed
+ # estimated relative error =  1.059592886556716E-009
+ #          343 evaluations performed
+ # estimated relative error =  4.067186646789299E-008
+ #          343 evaluations performed
+ # estimated relative error =  5.612048764085407E-008
+ #          343 evaluations performed
+ # estimated relative error =  9.756804067607858E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.257176693225753E-007
+ #          343 evaluations performed
+ # estimated relative error =  8.573232245143797E-008
+ #          343 evaluations performed
+ # estimated relative error =  6.419139526900305E-011
+ #          343 evaluations performed
+ # estimated relative error =  1.270881760044907E-007
+ #          343 evaluations performed
+ # estimated relative error =  9.515418518389486E-011
+ #          343 evaluations performed
+ # estimated relative error =  2.382593867327452E-010
+ #          343 evaluations performed
+ # estimated relative error =  1.031763351606576E-009
+ #          343 evaluations performed
+ # estimated relative error =  4.978742025948805E-009
+ #          343 evaluations performed
+ # estimated relative error =  2.669768856560598E-008
+ #          343 evaluations performed
+ # estimated relative error =  8.188779876643526E-007
+ #          343 evaluations performed
+ # estimated relative error =  2.554788951655945E-007
+ #          343 evaluations performed
+ # estimated relative error =  6.572594979832315E-009
+ #          343 evaluations performed
+ # estimated relative error =  9.054826197305953E-008
+ #          343 evaluations performed
+ # estimated relative error =  1.308036932056724E-008
+ #          343 evaluations performed
+ # estimated relative error =  4.977690243917606E-007
+ #          357 evaluations performed
+ # estimated relative error =  1.383101268182800E-006
+ #          825 evaluations performed
+ # estimated relative error =  1.533407529976738E-006
+ # E -0.637000000000000       1.499341149167259E-002
+ # E -0.637000000000000        1.88755867363533     
+ # E -0.637000000000000       0.474133302098281     
+ # E -0.637000000000000       5.968984625894067E-003
+ # E -0.637000000000000       0.596898462589407     
+ # E -0.637000000000000       5.968984625894067E-002
+ # E -0.408520754362846        2.00557883430041     
+ # E -0.637000000000000       1.887558673635332E-002
+ # E -0.637000000000000       0.376617468879722     
+ # E -0.637000000000000        1.49934114916726     
+ # E -0.637000000000000       7.514506428146743E-002
+ # E -0.637000000000000       0.188755867363533     
+ # E -0.637000000000000       4.741333020982809E-002
+ # E -0.637000000000000       3.766174688797221E-002
+ # E -0.637000000000000       9.460203099484556E-003
+ # E -0.637000000000000       2.991578892215567E-002
+ # E -0.637000000000000       0.751450642814674     
+ # E -0.637000000000000       9.460203099484557E-002
+ # E -0.637000000000000        2.00557883430041     
+ # E -0.637000000000000       1.190969008267505E-002
+ # E -0.637000000000000        1.19096900826751     
+ # E -0.637000000000000       0.946020309948456     
+ # E -0.637000000000000       0.299157889221557     
+ # E -0.637000000000000       0.237629558049201     
+ # E -0.637000000000000       2.376295580492013E-002
+ # E -0.637000000000000       0.119096900826750     
+ # E -0.637000000000000       0.149934114916726     
+ # E -0.180041508725692        2.00557883430041     
+ # E -0.637000000000000       7.514506428146743E-003
+ # E  4.843773691146147E-002   2.00557883430041     
+ # E  0.276916982548615        2.00557883430041     
+ # E  0.505396228185769        2.00557883430041     
+ # E  0.733875473822923        2.00557883430041     
+ # E  0.733875473822923        1.19096900826751     
+ # E  0.733875473822923       0.751450642814674     
+ # E  0.733875473822923       0.474133302098281     
+ # E  0.733875473822923        1.88755867363533     
+ # E  0.733875473822923       0.946020309948456     
+ # E  0.733875473822923        1.49934114916726     
+ # E  0.733875473822923       0.596898462589407     
+ # E  0.733875473822923       0.376617468879722     
+ #          501 evaluations performed
+ # estimated relative error =  1.986340495575190E-006
+ #         1213 evaluations performed
+ # estimated relative error =  4.632190300970849E-007
+ #          921 evaluations performed
+ # estimated relative error =  1.896914970449625E-006
+ #          973 evaluations performed
+ # estimated relative error =  2.217238041020493E-006
+ #         1253 evaluations performed
+ # estimated relative error =  6.785452077308104E-007
+ #         1259 evaluations performed
+ # estimated relative error =  8.424251466799418E-007
+ #          501 evaluations performed
+ # estimated relative error =  1.986333795746082E-006
+ #          825 evaluations performed
+ # estimated relative error =  1.535006656500092E-006
+ # E  0.733875473822923       0.299157889221557     
+ #          575 evaluations performed
+ # estimated relative error =  2.196433738308081E-006
+ #          921 evaluations performed
+ # estimated relative error =  1.899872035005334E-006
+ #          973 evaluations performed
+ # estimated relative error =  2.222195593869286E-006
+ #          843 evaluations performed
+ # estimated relative error =  2.446191430950567E-006
+ #         1213 evaluations performed
+ # estimated relative error =  4.612573955347987E-007
+ #          825 evaluations performed
+ # estimated relative error =  1.534992621797136E-006
+ # E  0.733875473822923       0.237629558049201     
+ #         1261 evaluations performed
+ # estimated relative error =  8.451011368850005E-007
+ #         1253 evaluations performed
+ # estimated relative error =  6.821004893294829E-007
+ #         1565 evaluations performed
+ # estimated relative error =  6.391012839717670E-007
+ #          793 evaluations performed
+ # estimated relative error =  2.753751276230410E-006
+ #         1669 evaluations performed
+ # estimated relative error =  1.013390464427813E-006
+ #          921 evaluations performed
+ # estimated relative error =  1.899829720032150E-006
+ #          973 evaluations performed
+ # estimated relative error =  2.222085992067616E-006
+ #         2103 evaluations performed
+ # estimated relative error =  4.071477782746868E-007
+ #          869 evaluations performed
+ # estimated relative error =  2.738949345442243E-006
+ # E  0.733875473822923       0.188755867363533     
+ #         2233 evaluations performed
+ # estimated relative error =  5.203972752218958E-007
+ # E  0.733875473822923       0.149934114916726     
+ #         1213 evaluations performed
+ # estimated relative error =  4.609971672211009E-007
+ #         2505 evaluations performed
+ # estimated relative error =  6.546870041479972E-007
+ #          793 evaluations performed
+ # estimated relative error =  2.746669650450996E-006
+ #         1253 evaluations performed
+ # estimated relative error =  6.819400254423487E-007
+ #         1261 evaluations performed
+ # estimated relative error =  8.450176488962481E-007
+ #         2989 evaluations performed
+ # estimated relative error =  7.754848742261259E-007
+ #          867 evaluations performed
+ # estimated relative error =  2.723400077833006E-006
+ #         3345 evaluations performed
+ # estimated relative error =  9.082192184948149E-007
+ #         1525 evaluations performed
+ # estimated relative error =  9.580275097917898E-007
+ #         1659 evaluations performed
+ # estimated relative error =  8.433007767744106E-007
+ #          793 evaluations performed
+ # estimated relative error =  2.746180188706491E-006
+ #         3723 evaluations performed
+ # estimated relative error =  1.019070073067804E-006
+ #         1213 evaluations performed
+ # estimated relative error =  4.609985626929925E-007
+ #         1737 evaluations performed
+ # estimated relative error =  1.023181502602741E-006
+ #         4043 evaluations performed
+ # estimated relative error =  1.122446831987273E-006
+ # E  0.733875473822923       7.514506428146743E-002
+ #         1853 evaluations performed
+ # estimated relative error =  1.382054746409815E-006
+ #          867 evaluations performed
+ # estimated relative error =  2.723383959130190E-006
+ #         1253 evaluations performed
+ # estimated relative error =  6.819318791215236E-007
+ #         1261 evaluations performed
+ # estimated relative error =  8.450118400435586E-007
+ #          793 evaluations performed
+ # estimated relative error =  2.746199714683372E-006
+ # E  0.733875473822923       0.119096900826750     
+ # E  0.733875473822923       9.460203099484557E-002
+ # E  0.733875473822923       5.968984625894067E-002
+ #         2233 evaluations performed
+ # estimated relative error =  5.198767910872213E-007
+ #         1525 evaluations performed
+ # estimated relative error =  9.517086983345526E-007
+ #         1659 evaluations performed
+ # estimated relative error =  8.417907113507370E-007
+ #          867 evaluations performed
+ # estimated relative error =  2.723394250124232E-006
+ #         2351 evaluations performed
+ # estimated relative error =  6.085748678213470E-007
+ # E  0.733875473822923       4.741333020982809E-002
+ #         1737 evaluations performed
+ # estimated relative error =  1.027087513716014E-006
+ #         2531 evaluations performed
+ # estimated relative error =  6.911166497092770E-007
+ #         1857 evaluations performed
+ # estimated relative error =  1.374385011142014E-006
+ #         2847 evaluations performed
+ # estimated relative error =  7.484280807439485E-007
+ #         1525 evaluations performed
+ # estimated relative error =  9.522346576353197E-007
+ #         1659 evaluations performed
+ # estimated relative error =  8.423496488951620E-007
+ #         2233 evaluations performed
+ # estimated relative error =  5.173518262666553E-007
+ #         3177 evaluations performed
+ # estimated relative error =  8.066125972380330E-007
+ #         1737 evaluations performed
+ # estimated relative error =  1.027155023771801E-006
+ #         2351 evaluations performed
+ # estimated relative error =  6.043994995413583E-007
+ # E  0.733875473822923       2.376295580492013E-002
+ #         1857 evaluations performed
+ # estimated relative error =  1.374034232666541E-006
+ #         1525 evaluations performed
+ # estimated relative error =  9.522283857878552E-007
+ #         2515 evaluations performed
+ # estimated relative error =  6.856046889796928E-007
+ # E  0.733875473822923       3.766174688797221E-002
+ #         1659 evaluations performed
+ # estimated relative error =  8.422990916210253E-007
+ # E  0.733875473822923       2.991578892215567E-002
+ #         2787 evaluations performed
+ # estimated relative error =  7.426319439459063E-007
+ #         2233 evaluations performed
+ # estimated relative error =  5.171584639897840E-007
+ #         1857 evaluations performed
+ # estimated relative error =  1.373900482271529E-006
+ #         2351 evaluations performed
+ # estimated relative error =  6.041601896095990E-007
+ # E  0.733875473822923       1.887558673635332E-002
+ #         3145 evaluations performed
+ # estimated relative error =  7.979577815093350E-007
+ #         2515 evaluations performed
+ # estimated relative error =  6.853203595539669E-007
+ #         2233 evaluations performed
+ # estimated relative error =  5.171289787929881E-007
+ # E  0.733875473822923       1.499341149167259E-002
+ #         2787 evaluations performed
+ # estimated relative error =  7.423030622265001E-007
+ #         2351 evaluations performed
+ # estimated relative error =  6.041196423614778E-007
+ # E  0.733875473822923       1.190969008267505E-002
+ #         2515 evaluations performed
+ # estimated relative error =  6.852685452413415E-007
+ #         3145 evaluations performed
+ # estimated relative error =  7.975890096182543E-007
+ # E  0.733875473822923       9.460203099484556E-003
+ #         2787 evaluations performed
+ # estimated relative error =  7.422431238298011E-007
+ # E  0.733875473822923       7.514506428146743E-003
+ #         3145 evaluations performed
+ # estimated relative error =  7.975214073307481E-007
+ # E  0.733875473822923       5.968984625894067E-003

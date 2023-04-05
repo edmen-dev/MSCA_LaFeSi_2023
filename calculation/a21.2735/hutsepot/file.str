@@ -1,0 +1,237 @@
+-------------------------------------------------------------------------------
+------------------------------- Compound job ----------------------------------
+-------------------------------------------------------------------------------
+3D unit cell alat=21.2735 blat=21.2735 clat=21.2735
+             rb= 0.000000000   0.500000000   0.500000000 ascale= 1.d0
+                 0.500000000   0.000000000   0.500000000 bscale= 1.d0
+                 0.500000000   0.500000000   0.000000000 cscale= 1.d0
+-------------------------------------------------------------------------------
+------------------------------- atomic positions ------------------------------
+-------------------------------------------------------------------------------
+ 1.  Fe  type=1  nat=60  tau= 0.500000000  0.179900000  0.616600000 sl=1
+ 2.  Fe  type=4  nat=60  tau= 0.500000000  0.179900000  0.383400000 sl=1
+ 3.  Fe  type=7  nat=60  tau= 0.500000000  0.820100000  0.383400000 sl=1
+ 4.  Fe  type=10 nat=60  tau= 0.500000000  0.820100000  0.616600000 sl=1
+ 5.  Fe  type=13 nat=60  tau= 0.820100000  0.616600000  0.500000000 sl=1
+ 6.  Fe  type=16 nat=60  tau= 0.820100000  0.383400000  0.500000000 sl=1
+ 7.  Fe  type=19 nat=60  tau= 0.179900000  0.383400000  0.500000000 sl=1
+ 8.  Fe  type=22 nat=60  tau= 0.179900000  0.616600000  0.500000000 sl=1
+ 9.  Fe  type=25 nat=60  tau= 0.383400000  0.500000000  0.179900000 sl=1
+ 10. Fe  type=28 nat=60  tau= 0.616600000  0.500000000  0.179900000 sl=1
+ 11. Fe  type=31 nat=60  tau= 0.616600000  0.500000000  0.820100000 sl=1
+ 12. Fe  type=34 nat=60  tau= 0.383400000  0.500000000  0.820100000 sl=1
+ 13. Fe  type=37 nat=60  tau= 0.679900000  0.500000000  0.383400000 sl=1
+ 14. Fe  type=40 nat=60  tau= 0.679900000  0.500000000  0.616600000 sl=1
+ 15. Fe  type=43 nat=60  tau= 0.320100000  0.500000000  0.616600000 sl=1
+ 16. Fe  type=46 nat=60  tau= 0.320100000  0.500000000  0.383400000 sl=1
+ 17. Fe  type=49 nat=60  tau= 0.616600000  0.320100000  0.500000000 sl=1
+ 18. Fe  type=52 nat=60  tau= 0.383400000  0.320100000  0.500000000 sl=1
+ 19. Fe  type=55 nat=60  tau= 0.383400000  0.679900000  0.500000000 sl=1
+ 20. Fe  type=58 nat=60  tau= 0.616600000  0.679900000  0.500000000 sl=1
+ 21. Fe  type=61 nat=60  tau= 0.500000000  0.383400000  0.320100000 sl=1
+ 22. Fe  type=64 nat=60  tau= 0.500000000  0.616600000  0.320100000 sl=1
+ 23. Fe  type=67 nat=60  tau= 0.500000000  0.616600000  0.679900000 sl=1
+ 24. Fe  type=70 nat=60  tau= 0.500000000  0.383400000  0.679900000 sl=1
+ 25. Fe  type=73 nat=60  tau= 0.000000000  0.000000000  0.000000000 sl=1
+ 26. Fe  type=75 nat=60  tau= 0.500000000  0.500000000  0.500000000 sl=1
+ 27. La  type=77 nat=60  tau= 0.250000000  0.250000000  0.250000000 sl=1
+ 28. La  type=78 nat=60  tau= 0.750000000  0.750000000  0.750000000 sl=1
+-------------------------------------------------------------------------------
+---------------------------- atomic configurations ----------------------------
+-------------------------------------------------------------------------------
+ 1.  label=Fe   nc=5  c=1s2s2p3s3p                      nv=3 v=4s4p3d
+ 3.  label=Si   nc=3  c=1s2s2p                          nv=2 v=3s3p
+ 77. label=La   nc=10 c=1s2s2p3s3p3d4s4p4d5s            nv=4 v=6s6p5d5p
+-------------------------------------------------------------------------------
+------------------------------- atomic options --------------------------------
+-------------------------------------------------------------------------------
+ 1.  atom=Fe type=1  fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=1
+ 2.  atom=Fe type=2  fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=2
+ 3.  atom=Si type=3  fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=3
+ 4.  atom=Fe type=4  fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=4
+ 5.  atom=Fe type=5  fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=5
+ 6.  atom=Si type=6  fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=6
+ 7.  atom=Fe type=7  fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=7
+ 8.  atom=Fe type=8  fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=8
+ 9.  atom=Si type=9  fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=9
+ 10. atom=Fe type=10 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=10
+ 11. atom=Fe type=11 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=11
+ 12. atom=Si type=12 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=12
+ 13. atom=Fe type=13 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=13
+ 14. atom=Fe type=14 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=14
+ 15. atom=Si type=15 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=15
+ 16. atom=Fe type=16 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=16
+ 17. atom=Fe type=17 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=17
+ 18. atom=Si type=18 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=18
+ 19. atom=Fe type=19 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=19
+ 20. atom=Fe type=20 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=20
+ 21. atom=Si type=21 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=21
+ 22. atom=Fe type=22 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=22
+ 23. atom=Fe type=23 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=23
+ 24. atom=Si type=24 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=24
+ 25. atom=Fe type=25 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=25
+ 26. atom=Fe type=26 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=26
+ 27. atom=Si type=27 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=27
+ 28. atom=Fe type=28 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=28
+ 29. atom=Fe type=29 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=29
+ 30. atom=Si type=30 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=30
+ 31. atom=Fe type=31 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=31
+ 32. atom=Fe type=32 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=32
+ 33. atom=Si type=33 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=33
+ 34. atom=Fe type=34 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=34
+ 35. atom=Fe type=35 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=35
+ 36. atom=Si type=36 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=36
+ 37. atom=Fe type=37 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=37
+ 38. atom=Fe type=38 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=38
+ 39. atom=Si type=39 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=39
+ 40. atom=Fe type=40 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=40
+ 41. atom=Fe type=41 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=41
+ 42. atom=Si type=42 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=42
+ 43. atom=Fe type=43 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=43
+ 44. atom=Fe type=44 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=44
+ 45. atom=Si type=45 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=45
+ 46. atom=Fe type=46 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=46
+ 47. atom=Fe type=47 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=47
+ 48. atom=Si type=48 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=48
+ 49. atom=Fe type=49 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=49
+ 50. atom=Fe type=50 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=50
+ 51. atom=Si type=51 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=51
+ 52. atom=Fe type=52 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=52
+ 53. atom=Fe type=53 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=53
+ 54. atom=Si type=54 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=54
+ 55. atom=Fe type=55 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=55
+ 56. atom=Fe type=56 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=56
+ 57. atom=Si type=57 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=57
+ 58. atom=Fe type=58 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=58
+ 59. atom=Fe type=59 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=59
+ 60. atom=Si type=60 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=60
+ 61. atom=Fe type=61 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=61
+ 62. atom=Fe type=62 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=62
+ 63. atom=Si type=63 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=63
+ 64. atom=Fe type=64 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=64
+ 65. atom=Fe type=65 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=65
+ 66. atom=Si type=66 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=66
+ 67. atom=Fe type=67 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=67
+ 68. atom=Fe type=68 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=68
+ 69. atom=Si type=69 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=69
+ 70. atom=Fe type=70 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=70
+ 71. atom=Fe type=71 fix=F  lmax=3  lmaxv=0  conc=0.440  mtz=T  sort=71
+ 72. atom=Si type=72 fix=F  lmax=3  lmaxv=0  conc=0.120  mtz=T  sort=72
+ 73. atom=Fe type=73 fix=F  lmax=3  lmaxv=0  conc=0.500  mtz=T  sort=73
+ 74. atom=Fe type=74 fix=F  lmax=3  lmaxv=0  conc=0.500  mtz=T  sort=74
+ 75. atom=Fe type=75 fix=F  lmax=3  lmaxv=0  conc=0.500  mtz=T  sort=75
+ 76. atom=Fe type=76 fix=F  lmax=3  lmaxv=0  conc=0.500  mtz=T  sort=76
+ 77. atom=La type=77 fix=F  lmax=3  lmaxv=0  conc=1.000  mtz=T  sort=77
+ 78. atom=La type=78 fix=F  lmax=3  lmaxv=0  conc=1.000  mtz=T  sort=78
+-------------------------------------------------------------------------------
+--------------------------------- potentials ----------------------------------
+-------------------------------------------------------------------------------
+ 1.  Fe  type=1   np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe1.pot
+ 2.  Fe  type=2   np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe2.pot
+ 3.  Si  type=3   np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si1.pot
+ 4.  Fe  type=4   np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe3.pot
+ 5.  Fe  type=5   np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe4.pot
+ 6.  Si  type=6   np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si2.pot
+ 7.  Fe  type=7   np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe5.pot
+ 8.  Fe  type=8   np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe6.pot
+ 9.  Si  type=9   np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si3.pot
+ 10. Fe  type=10  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe7.pot
+ 11. Fe  type=11  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe8.pot
+ 12. Si  type=12  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si4.pot
+ 13. Fe  type=13  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe9.pot
+ 14. Fe  type=14  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe10.pot
+ 15. Si  type=15  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si5.pot
+ 16. Fe  type=16  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe11.pot
+ 17. Fe  type=17  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe12.pot
+ 18. Si  type=18  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si6.pot
+ 19. Fe  type=19  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe13.pot
+ 20. Fe  type=20  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe14.pot
+ 21. Si  type=21  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si7.pot
+ 22. Fe  type=22  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe15.pot
+ 23. Fe  type=23  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe16.pot
+ 24. Si  type=24  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si8.pot
+ 25. Fe  type=25  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe17.pot
+ 26. Fe  type=26  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe18.pot
+ 27. Si  type=27  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si9.pot
+ 28. Fe  type=28  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe19.pot
+ 29. Fe  type=29  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe20.pot
+ 30. Si  type=30  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si10.pot
+ 31. Fe  type=31  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe21.pot
+ 32. Fe  type=32  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe22.pot
+ 33. Si  type=33  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si11.pot
+ 34. Fe  type=34  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe23.pot
+ 35. Fe  type=35  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe24.pot
+ 36. Si  type=36  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si12.pot
+ 37. Fe  type=37  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe25.pot
+ 38. Fe  type=38  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe26.pot
+ 39. Si  type=39  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si13.pot
+ 40. Fe  type=40  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe27.pot
+ 41. Fe  type=41  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe28.pot
+ 42. Si  type=42  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si14.pot
+ 43. Fe  type=43  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe29.pot
+ 44. Fe  type=44  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe30.pot
+ 45. Si  type=45  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si15.pot
+ 46. Fe  type=46  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe31.pot
+ 47. Fe  type=47  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe32.pot
+ 48. Si  type=48  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si16.pot
+ 49. Fe  type=49  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe33.pot
+ 50. Fe  type=50  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe34.pot
+ 51. Si  type=51  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si17.pot
+ 52. Fe  type=52  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe35.pot
+ 53. Fe  type=53  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe36.pot
+ 54. Si  type=54  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si18.pot
+ 55. Fe  type=55  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe37.pot
+ 56. Fe  type=56  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe38.pot
+ 57. Si  type=57  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si19.pot
+ 58. Fe  type=58  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe39.pot
+ 59. Fe  type=59  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe40.pot
+ 60. Si  type=60  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si20.pot
+ 61. Fe  type=61  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe41.pot
+ 62. Fe  type=62  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe42.pot
+ 63. Si  type=63  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si21.pot
+ 64. Fe  type=64  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe43.pot
+ 65. Fe  type=65  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe44.pot
+ 66. Si  type=66  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si22.pot
+ 67. Fe  type=67  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe45.pot
+ 68. Fe  type=68  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe46.pot
+ 69. Si  type=69  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si23.pot
+ 70. Fe  type=70  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe47.pot
+ 71. Fe  type=71  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Fe48.pot
+ 72. Si  type=72  np=1001 r1=1.0E-05  rnp=-2.31314340  pfile=Si24.pot
+ 73. Fe  type=73  np=1001 r1=1.0E-05  rnp=-2.32686444  pfile=Fe49.pot
+ 74. Fe  type=74  np=1001 r1=1.0E-05  rnp=-2.32686444  pfile=Fe50.pot
+ 75. Fe  type=75  np=1001 r1=1.0E-05  rnp=-2.32686444  pfile=Fe51.pot
+ 76. Fe  type=76  np=1001 r1=1.0E-05  rnp=-2.32686444  pfile=Fe52.pot
+ 77. La  type=77  np=1001 r1=1.0E-05  rnp=-3.16830725  pfile=La1.pot
+ 78. La  type=78  np=1001 r1=1.0E-05  rnp=-3.16830725  pfile=La2.pot
+------------------------------------------------------------------------------
+------------------------------------- CPA -------------------------------------
+-------------------------------------------------------------------------------
+ 1.  cpasite=1 nsubl=3 cpatypes=1,2,3
+ 2.  cpasite=2 nsubl=3 cpatypes=4,5,6
+ 3.  cpasite=3 nsubl=3 cpatypes=7,8,9
+ 4.  cpasite=4 nsubl=3 cpatypes=10,11,12
+ 5.  cpasite=5 nsubl=3 cpatypes=13,14,15
+ 6.  cpasite=6 nsubl=3 cpatypes=16,17,18
+ 7.  cpasite=7 nsubl=3 cpatypes=19,20,21
+ 8.  cpasite=8 nsubl=3 cpatypes=22,23,24
+ 9.  cpasite=9 nsubl=3 cpatypes=25,26,27
+ 10. cpasite=10 nsubl=3 cpatypes=28,29,30
+ 11. cpasite=11 nsubl=3 cpatypes=31,32,33
+ 12. cpasite=12 nsubl=3 cpatypes=34,35,36
+ 13. cpasite=13 nsubl=3 cpatypes=37,38,39
+ 14. cpasite=14 nsubl=3 cpatypes=40,41,42
+ 15. cpasite=15 nsubl=3 cpatypes=43,44,45
+ 16. cpasite=16 nsubl=3 cpatypes=46,47,48
+ 17. cpasite=17 nsubl=3 cpatypes=49,50,51
+ 18. cpasite=18 nsubl=3 cpatypes=52,53,54
+ 19. cpasite=19 nsubl=3 cpatypes=55,56,57
+ 20. cpasite=20 nsubl=3 cpatypes=58,59,60
+ 21. cpasite=21 nsubl=3 cpatypes=61,62,63
+ 22. cpasite=22 nsubl=3 cpatypes=64,65,66
+ 23. cpasite=23 nsubl=3 cpatypes=67,68,69
+ 24. cpasite=24 nsubl=3 cpatypes=70,71,72
+ 25. cpasite=25 nsubl=2 cpatypes=73,74
+ 26. cpasite=26 nsubl=2 cpatypes=75,76
+-------------------------------------------------------------------------------
+
